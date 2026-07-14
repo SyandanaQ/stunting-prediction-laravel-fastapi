@@ -1,0 +1,16 @@
+# Laravel
+stunting-laravel/vendor/
+stunting-laravel/node_modules/
+stunting-laravel/.env
+stunting-laravel/public/build/
+stunting-laravel/database/database.sqlite
+stunting-laravel/storage/*.key
+
+# FastAPI / Python
+Dev_Weekend_ML/venv/
+Dev_Weekend_ML/__pycache__/
+Dev_Weekend_ML/*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
